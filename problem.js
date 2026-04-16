@@ -7,5 +7,7 @@ function isReversed(num) {
     let isReversed = str.split('').reverse().join('');
     return str === isReversed
 }
-console.log(isReversed(121));
-console.log(isReversed(123));
+// console.log(isReversed(121));
+// console.log(isReversed(123));
+
+
